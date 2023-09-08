@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Python, OCI and SQL**
 
-- 👨‍💻 All of my projects are available at [thayrov.com](thayrov.com)
-
 - 💬 Ask me about **the MERN stack**
 
 - 📫 How to reach me **contact@thayrov.com**
