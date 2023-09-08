@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thayrov</h1>
-<h3 align="center">A full stack developer from México</h3>
+<h3 align="center">A FullStack Developer from México</h3>
 
 - 🌱 I’m currently learning **Python, OCI and SQL**
 
