@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thayrov</h1>
-<h3 align="center">A FullStack Developer from México</h3>
+<h2 align="center">A FullStack Developer from México</h2>
 
 - 🌱 I’m currently learning **Python, OCI and SQL**
 
@@ -18,3 +18,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thayrov&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="thayrov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thayrov&&theme=tokyonight" alt="thayrov" /></p>
+
+
