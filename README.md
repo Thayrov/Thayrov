@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Thayrov</h1>
 <h2 align="center">A Full Stack Developer from México</h2>
 
-- 🌱 I’m currently learning **Python, OCI and SQL**
+- 🌱 I’m currently learning **Next.js 14 and Typescript**
 
 - 💬 Ask me about **the MERN stack**
+
+- 💼 Check my portfolio **thayrov.com**
 
 - 📫 How to reach me **contact@thayrov.com**
 
