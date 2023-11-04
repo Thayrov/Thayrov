@@ -36,6 +36,6 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thayrov&&theme=tokyonight" alt="thayrov" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=thayrov&theme=gotham&background=45%2C24292E%2C1A1B27&border=2AA889" alt="thayrov" /></p>
 
 
