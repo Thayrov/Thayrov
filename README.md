@@ -1,26 +1,25 @@
 <h1 align="center">Hi 👋, I'm Thayrov</h1>
 <h2 align="center">A Full Stack Developer from México</h2>
+<img align='right' src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
 
-- 🌱 I’m currently learning **Next.js 14 and Typescript**
+• 🌱 I’m currently learning **Next.js 14 and Typescript**
 
-- 💬 Ask me about **the MERN stack**
+• 💬 Ask me about **the MERN stack**
 
-- 💼 Check my portfolio **www.thayrov.com**
+• 💼 Check my portfolio **www.thayrov.com**
 
-- 📫 How to reach me **contact@thayrov.com**
+• 📫 How to reach me **contact@thayrov.com**
 
 
-<details open> 
-<summary><h3 align="left">Connect with me:</h3></summary>
+
+<h2 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thayrovg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thayrovg" height="30" width="40" /></a>
 </p>
-</details>
 
+<h2></h2>
 <details open> 
-
 <summary><h3 align="left">My skills:</h3></summary>
-
 <h4> 👨‍💻👩‍💻 Languages </h4>
 <p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -61,17 +60,17 @@
 
 <h4> 🧪✔️ Testing </h4>
 <p>
-<a href="https://www.chaijs.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Chai-A30701.svg?style=for-the-badge&logo=Chai&logoColor=white" alt="chai"/> </a> 
+<a href="https://www.chaijs.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Chai-A30701.svg?style=for-the-badge&logo=Chai&logoColor=white" height="20" alt="chai"/> </a> 
 </p>
 
 <h4> 📄📋 Docs & Logging </h4>
 <p>
-<a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black" alt="swagger"/> </a>   
+<a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black" height="20" alt="swagger"/> </a>   
 </p>
 
 <h4> ✅🔍 Code Quality </h4>
 <p>
-<a href="https://eslint.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=white" alt="eslint"/> </a>  
+<a href="https://eslint.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=white" height="20" alt="eslint"/> </a>  
 </p>
 
 <h4> 🔄🔗 Version Control </h4>
@@ -80,6 +79,7 @@
 </p>
 
 </details>
+<h2></h2>
 
 <details open> 
 <summary><h3> 📊 Github Stats </h3></summary>
