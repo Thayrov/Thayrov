@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thayrov</h1>
 <h2 align="center">A Full Stack Developer from México</h2>
-<img align='right' src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
+<img align='right' src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="180">
 
 • 🌱 I’m currently learning **Next.js 14 and Typescript**
 
@@ -61,21 +61,25 @@
 <h4> 🧪✔️ Testing </h4>
 <p>
 <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Chai-A30701.svg?style=for-the-badge&logo=Chai&logoColor=white" height="20" alt="chai"/> </a> 
+<a href="https://mochajs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Mocha-8D6748.svg?style=for-the-badge&logo=Mocha&logoColor=white" height="20" alt="mocha"/> </a> 
 </p>
 
 <h4> 📄📋 Docs & Logging </h4>
 <p>
 <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black" height="20" alt="swagger"/> </a>   
+<a href="https://github.com/winstonjs/winston" target="_blank" rel="noreferrer"> <img src="https://custom-icon-badges.demolab.com/badge/winston-black.svg?logo=winston&logoColor=white" height="20" alt="winston"/> </a>   
 </p>
 
 <h4> ✅🔍 Code Quality </h4>
 <p>
 <a href="https://eslint.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=white" height="20" alt="eslint"/> </a>  
+<a href="https://prettier.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Prettier-F7B93E.svg?style=for-the-badge&logo=Prettier&logoColor=black" height="20" alt="prettier"/> </a>  
 </p>
 
 <h4> 🔄🔗 Version Control </h4>
 <p>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="git" height="20"/> </a> 
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="github" height="20"/> </a> 
 </p>
 
 </details>
