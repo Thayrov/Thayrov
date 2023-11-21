@@ -60,6 +60,7 @@
 
 <h4> 🧪✔️ Testing </h4>
 <p>
+<a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white" height="20" alt="jest"/> </a> 
 <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Chai-A30701.svg?style=for-the-badge&logo=Chai&logoColor=white" height="20" alt="chai"/> </a> 
 <a href="https://mochajs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Mocha-8D6748.svg?style=for-the-badge&logo=Mocha&logoColor=white" height="20" alt="mocha"/> </a> 
 </p>
