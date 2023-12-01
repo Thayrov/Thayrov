@@ -60,8 +60,8 @@
 
 <h4> 🛠️☁️ DevOps </h4>
 <p>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-</p>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" alt="docker" height="20"/> </a> 
+</p>2
 
 <h4> 🧪✔️ Testing </h4>
 <p>
