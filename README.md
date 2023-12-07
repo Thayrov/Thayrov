@@ -60,10 +60,6 @@ As a web developer, I have a solid foundation in Typescript, Node JS, React, Rea
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=thayrov&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=thayrov&icon=2&color=1)](https://visitcount.itsvg.in)
