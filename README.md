@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thayrov</h1>
-<h2 align="center">A Full Stack Developer from México</h2>
+<h2 align="center">A Full Stack Developer from México and currently looking for a full time remote job</h2>
 <img align='right' src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="180">
 
 • 🌱 I’m currently learning **Next.js 14 and Typescript**
