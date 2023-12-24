@@ -6,9 +6,9 @@
 
 • 💬 Ask me about **the MERN stack**
 
-• 💼 Check my portfolio **www.thayrov.com**
+• 💼 Check my portfolio: **www.thayrov.com**
 
-• 📫 How to reach me **contact@thayrov.com**
+• 📫 Reach me here: **contact@thayrov.com**
 
 
 
