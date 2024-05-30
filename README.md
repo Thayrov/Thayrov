@@ -4,7 +4,7 @@
 
 <br />
 
-As a web developer, I have a solid foundation in Typescript, Node JS, React, React Native, Next JS, Express, PostgreSQL and MongoDB. My goal is to deepen my understanding of software architecture, cloud solutions, and agile methodologies.<br><br>While I may be at the start of my development career, my previous roles in customer service, sales, teaching, management, and designing have equipped me with valuable skills. My problem-solving and conflict resolution abilities allow me to navigate challenges in coding projects. I excel in team settings due to my strong communication skills. I also have a keen sense of project management.<br><br>I bring a mature, well-rounded skill set that complements my technical abilities, making me a holistic contributor to any team. I'm not just looking for a job; I'm looking to grow, contribute, and excel in a full-time remote position.
+As a web developer, I have a solid foundation in Typescript, Node JS, React, React Native, Next JS, Express, PostgreSQL and MongoDB. My goal is to deepen my understanding of software architecture, cloud solutions, and agile methodologies.<br><br>My previous roles in customer service, sales, teaching, management, and designing have equipped me with valuable skills. My problem-solving and conflict resolution abilities allow me to navigate challenges in coding projects. I excel in team settings due to my strong communication skills. I also have a keen sense of project management.<br><br>I bring a mature, well-rounded skill set that complements my technical abilities, making me a holistic contributor to any team. I'm not just looking for a job; I'm looking to grow, contribute, and excel in a full-time remote position.
 
 ## 🌐 Socials:
 
