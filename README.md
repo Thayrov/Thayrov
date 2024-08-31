@@ -54,7 +54,7 @@ With a solid foundation in Typescript, Node JS, React, React Native, Next JS, Ex
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=thayrov&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=thayrov&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true)
 
 ### ✍️ Random Dev Quote
 
