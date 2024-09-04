@@ -50,7 +50,7 @@ With a solid foundation in Typescript, Node JS, React, React Native, Next JS, Ex
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=thayrov&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=thayrov&theme=tokyonight&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thayrov&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&hide_progress=true&langs_count=20&hide=EJS,Nunjucks)
+![](https://github-readme-stats.vercel.app/api?username=thayrov&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=thayrov&theme=tokyonight&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thayrov&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&hide_progress=true&langs_count=20&hide=EJS,Nunjucks,Jupyter%20Notebook,Dockerfile,Less,Handlebars)
 
 ## 🏆 GitHub Trophies
 
