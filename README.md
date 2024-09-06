@@ -8,7 +8,7 @@ With a solid foundation in Typescript, Node JS, React, React Native, Next JS, Ex
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thayrovg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thayrovg)
 
 # 💻 Tech Stack:
 
