@@ -64,10 +64,6 @@ As a web developer, I have a solid foundation in Typescript, Node JS, React, Rea
 
 ![](https://github-contributor-stats.vercel.app/api?username=thayrov&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=thayrov&icon=2&color=1)](https://visitcount.itsvg.in)
