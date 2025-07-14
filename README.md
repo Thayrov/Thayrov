@@ -208,8 +208,3 @@ I bring a mature, well-rounded skill set that complements my technical abilities
   <img src="https://github-profile-trophy.vercel.app/?username=thayrov&theme=tokyonight&row=2&column=4&margin-h=8&margin-w=5&no-bg=false" alt="GitHub Trophies"/>
 </div>
 
----
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=thayrov&icon=2&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
