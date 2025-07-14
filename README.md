@@ -1,20 +1,20 @@
-# 💫 About Me:
+# 💫 About Me
 
-<img align='center' src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="320" />
+<img alt= 'developer' align='center' src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="320" />
 
 <br />
 
 With a solid foundation in Typescript, Node JS, React, React Native, Next JS, Express, PostgreSQL and MongoDB. My goal is to deepen my understanding of software architecture, cloud solutions, and agile methodologies.<br><br>My previous roles in customer service, sales, teaching, management, and designing have equipped me with valuable skills. My problem-solving and conflict resolution abilities allow me to navigate challenges in coding projects. I excel in team settings due to my strong communication skills. I also have a keen sense of project management.<br><br>I bring a mature, well-rounded skill set that complements my technical abilities, making me a holistic contributor to any team. I'm not just looking for a job; I'm looking to grow, contribute, and excel in a full-time remote position.
 
-## 🌐 Socials:
+## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thayrovg)
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 #### Programming and Markup Languages
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23FF9900.svg?style=for-the-badge&logo=javascript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23FF9900.svg?style=for-the-badge&logo=javascript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 #### Development Frameworks, Libraries, and Tools
 
@@ -23,7 +23,6 @@ With a solid foundation in Typescript, Node JS, React, React Native, Next JS, Ex
 #### Database Tools
 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Knex.js](https://img.shields.io/badge/-Knex.js-D26B38?style=for-the-badge&logo=knexdotjs&logoColor=white) ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
-
 
 #### Deployment Platforms and Cloud Services
 
@@ -49,7 +48,7 @@ With a solid foundation in Typescript, Node JS, React, React Native, Next JS, Ex
 
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=thayrov&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=thayrov&theme=tokyonight&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thayrov&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&hide_progress=true&langs_count=20&hide=EJS,Nunjucks,Jupyter%20Notebook,Dockerfile,Less,Handlebars)
 
@@ -57,16 +56,8 @@ With a solid foundation in Typescript, Node JS, React, React Native, Next JS, Ex
 
 ![](https://github-profile-trophy.vercel.app/?username=thayrov&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true)
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=thayrov&icon=2&color=1)](https://visitcount.itsvg.in)
-
-## 💰 You can help me by Donating
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/thayrov) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/thayrov)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
